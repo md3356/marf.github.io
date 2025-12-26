@@ -16,43 +16,69 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Ruofei is a master's student in Computer Science at ShanghaiTech University, working under the supervision of Prof.[Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/) and expected to graduate in 2026. My research interests span visual analytics, human-AI collaboration, and AI-driven game analysis, with a focus on building interactive systems that combine deep learning and visualization for understanding strategies and supporting decision making.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 Our paper [ASight: Fine-Tuning Auto-Scheduling Optimizations for Model Deployment via Visual Analytics](https://ieeexplore.ieee.org/document/11017440) is accepted by TVCG!
+- *2025.03*: &nbsp;🎉🎉 Our paper [StratIncon Detector: Exploring Inconsistencies between Real-Time Strategy and Theoretical Optimal Strategy in Professional MOBA Game via Visual Analytics](https://dl.acm.org/doi/10.1145/3708359.3712088) is accepted by IUI'25!
+- *2024.04*: &nbsp;🎉🎉 Our paper [BPCoach: Exploring Hero Draing in Professional MOBA Tournaments via Visual Analytics](https://dl.acm.org/doi/abs/10.1145/3637303) is accepted by CSCW'24!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IUI 2025</div><img src='images/papers/stratincons.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[StratIncon Detector: Exploring Inconsistencies between Real-Time Strategy and Theoretical Optimal Strategy in Professional MOBA Game via Visual Analytics](https://dl.acm.org/doi/10.1145/3708359.3712088)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Ruofei Ma**, Yu Zhao, Yuheng Shao, Yunjie Yao, Quan Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**PDF**](https://dl.acm.org/doi/pdf/10.1145/3708359.3712088)
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/papers/bpcoach.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BPCoach: Exploring Hero Draing in Professional MOBA Tournaments via Visual Analytics](https://dl.acm.org/doi/abs/10.1145/3637303)
+
+Shiyi Liu, **Ruofei Ma**, Chuyi Zhao, Zhenbang Li, Jianpeng Xiao, Quan Li
+
+[**PDF**](https://dl.acm.org/doi/pdf/10.1145/3637303)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/papers/asight.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ASight: Fine-Tuning Auto-Scheduling Optimizations for Model Deployment via Visual Analytics](https://ieeexplore.ieee.org/document/11017440)
+
+Laixin Xie, Chenyang Zhang, **Ruofei Ma**, Xingxing Xing, Wei Wan, Quan Li
+
+[**PDF**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11017440)
+
+</div>
+</div>
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - present*, Master, ShanghaiTech University, Shanghai.
+- *2019.09 - 2023.06*, Bachelor, ShanghaiTech University, Shanghai.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.07 - 2025.11*, in Bytedance, Shanghai.
+- *2025.04 - 2025.06*, in Shanghai Zhangjiang Mathematical Institute, Shanghai.
